@@ -3,7 +3,7 @@ sidebar_position: 2
 ---
 
 # Exploração
-
+---
 Tendo em mente os questionamentos levantados ao final da sessão anterior, é possível realizar os testes de segurança a fim de descobrir onde a vulnerabilidade pode ser explorada.
 
 ## Autenticação na aplicação

@@ -3,7 +3,7 @@ sidebar_position: 3
 ---
 
 # Correção
-
+---
 Vulnerabilidades envolvendo injeção maliciosa de strings SQL podem ser resolvidas seguindo alguns princípios básicos, onde o principal é manter os dados separados dos comandos e das queries SQL.
 
 ## Identificando trecho de código vulnerável

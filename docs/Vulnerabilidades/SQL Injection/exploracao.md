@@ -3,7 +3,7 @@ sidebar_position: 2
 ---
 
 # Exploração
-
+---
 Existem alguns métodos usados para identificar uma falha de SQL Injection, seja por meio de uma revisão do código fonte (em casos de testes white box), por meio da injeção maliciosa de string em inputs de dados de uma API, ferramentas de scan de vulnerabilidades etc.
 
 ## Vulnerabilidade na rota `/users/v1/{username}`

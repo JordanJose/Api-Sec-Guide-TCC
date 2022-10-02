@@ -3,7 +3,7 @@ sidebar_position: 1
 ---
 
 # Descrição
-
+---
 A quebra do nível de autorização de funções está em quinto lugar nas vulnerabilidades mais comuns em interfaces de programação de aplicações segundo levantamento feito pela OWASP.
 
 Essa vulnerabilidade consiste basicamente em utilizar funções que deveriam possuir níveis de autenticação seguros antes de serem acessadas mas, por problemas de desenvolvimento, há pouca ou nenhuma verificação de identidade.

@@ -3,7 +3,7 @@ sidebar_position: 3
 ---
 
 # Correção
-
+---
 No geral, não há muito segredo para corrigir esse tipo de vulnerabilidade:
 
 - É preciso garantir que os usuários somente tenham acesso a funcionalidades à eles competidas. Por exemplo, apenas usuários de administrador possam acessar funções de administrador.
