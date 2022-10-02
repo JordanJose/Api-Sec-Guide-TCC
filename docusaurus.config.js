@@ -8,16 +8,17 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Guia de segurança em APIs',
   tagline: 'Desenvolvido por Jose Jordan Giordano Alcantara',
-  url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/',
+  url: 'https://github.com',
+  baseUrl: '/Api-Sec-Guide-TCC/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
+  deploymentBranch: 'gh-pages',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'UEA', // Usually your GitHub org/user name.
-  projectName: 'Segurança em APIs', // Usually your repo name.
+  organizationName: 'jordanjose', // Usually your GitHub org/user name.
+  projectName: 'Api-Sec-Guide-TCC', // Usually your repo name.
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want

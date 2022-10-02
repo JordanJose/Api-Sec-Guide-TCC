@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Descrição
 
-Vulnerabilidades que envolvam injeção maliciosa de dados em APIs estão em oitavo lugar nas vulnerabilidades mais comuns em interfaces de programação de aplicações segundo levantamento feito pela OWASP.
+Injeções maliciosas de dados em APIs estão em oitavo lugar nas vulnerabilidades mais comuns em interfaces de programação de aplicações segundo levantamento feito pela OWASP.
 
 Em nossa aplicação vulnerável trataremos especificamente do SQL Injection, porém, as medidas de tratativa são similares para os demais tipos.
 

@@ -9,7 +9,7 @@ Vulnerabilidades envolvendo injeção maliciosa de strings SQL podem ser resolvi
 ## Identificando trecho de código vulnerável
 Para que uma correção possa ser realizada, é necessário encontrar o(s) trecho(s) de código da aplicação que possam estar utilizando queries SQL sem qualquer tipo de sanitização ou tratamento especial.
 
-Ao analisar a rota na documentação da VAmPI (disponível de acordo com o formato [OpenAPI 3.0](https://swagger.io/specification/)), é possível encontrar a função responsável pelos dados lendo o `operationId`.
+Ao analisar a rota `/users/v1/{username}` na documentação da VAmPI (disponível de acordo com o formato [OpenAPI 3.0](https://swagger.io/specification/)), é possível encontrar a função responsável pelos dados lendo o `operationId`.
 
 ```yml title="openapi3.yml - /users/v1/{username}"
 ...

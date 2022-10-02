@@ -1,0 +1,8 @@
+{
+  "label": "Unauthorized Password Change",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Alteração de senha de usuários sem permissões de administrador."
+  }
+}
