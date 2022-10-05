@@ -31,7 +31,7 @@ export default function Home() {
   return (
     <Layout
       title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
+      description="Conheça o guia de desenvolvimento seguro para APIs!">
       <HomepageHeader />
 //      <main>
 //       <HomepageFeatures />
