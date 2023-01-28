@@ -1,0 +1,8 @@
+{
+  "label": "Broken Object Level Authorization",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "Falha da validação de um usuário antes de realizar o acesso à uma informação ou objeto."
+  }
+}
